@@ -2,7 +2,17 @@
 Recommends a list of stocks to buy based on a momentum trading strategy
 
 ## Usage
-Call momentum_strategy(
+momentum_strategy has the following parameters 
+
+Parameters:
+* start (str): Start date
+* end (str): End date
+* formation (str): portfolio formation date
+* rolling_months (int): no of months rolling period 
+
+Returns:
+* momentum_profit (float64): mean of winner stock returns for latest month
+* winners(list): list of winner stocks
 
 
 Stuff to do
