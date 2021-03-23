@@ -1,8 +1,8 @@
 # *Dhaka Stock Exchange(DSE)* Momentum Trading Strategy
 Recommends a list of stocks to buy based on a momentum trading strategy
 
-## Usage
-momentum_strategy has the following parameters 
+## Usage 
+The function *momentum_strategy* has the following properties: 
 
 Parameters:
 * start (str): Start date
